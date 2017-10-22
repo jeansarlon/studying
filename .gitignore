@@ -1,0 +1,87 @@
+# React
+
+React/cdc-admin/node_modules
+React/cdc-admin/coverage
+React/cdc-admin/build
+React/cdc-admin/.DS_Store
+React/cdc-admin/.env
+React/cdc-admin/npm-debug.log
+
+
+
+# Angular 2
+
+Angular 2/.tmp
+Angular 2/.DS_Store
+Angular 2/.DS_Store?
+Angular 2/.dpl/
+Angular 2/./vscode
+Angular 2/client/.vscode
+Angular 2/server/.vscode
+Angular 2/server/node_modules
+Angular 2/client/node_modules
+Angular 2/client/typings
+Angular 2/client/app/**/*.js
+Angular 2/client/app/**/*.map
+Angular 2/client/npm-debug.log
+Angular 2/server/npm-debug.log
+
+
+
+# Laravel 5 + Vue -A
+
+Laravel 5 + Vue -A/node_modules
+Laravel 5 + Vue -A//public/storage
+Laravel 5 + Vue -A//storage/*.key
+Laravel 5 + Vue -A//vendor
+Laravel 5 + Vue -A//.idea
+Laravel 5 + Vue -A/Homestead.json
+Laravel 5 + Vue -A/Homestead.yaml
+Laravel 5 + Vue -A/.env
+
+
+
+# Laravel 5 + Vue -A Client
+
+Laravel 5 + Vue -A Client/.DS_Store
+Laravel 5 + Vue -A Client/node_modules/
+Laravel 5 + Vue -A Client/dist/
+Laravel 5 + Vue -A Client/npm-debug.log
+
+
+
+# Laravel 5 DB
+
+Laravel 5 DB/node_modules
+Laravel 5 DB/public/storage
+Laravel 5 DB/vendor
+Laravel 5 DB/.idea
+Laravel 5 DB/Homestead.json
+Laravel 5 DB/Homestead.yaml
+Laravel 5 DB.env
+
+
+
+# Laravel 5-A
+
+
+Laravel 5-A/vendor
+Laravel 5-A/node_modules
+Laravel 5-A/public/storage
+Laravel 5-A/Homestead.yaml
+Laravel 5-A/Homestead.json
+Laravel 5-A/.env
+
+
+# Laravel 5-B
+
+Laravel 5-B/vendor
+Laravel 5-B/node_modules
+Laravel 5-B/public/storage
+Laravel 5-B/storage/debugbar
+Laravel 5-B/Homestead.yaml
+Laravel 5-B/Homestead.json
+Laravel 5-B/.env
+Laravel 5-B/.idea/
+Laravel 5-B/npm-debug.log
+
